@@ -128,6 +128,3 @@ Tests verify correctness against CPU implementations using the Interpolations.jl
 
 TBD
 
-## Contributing
-
-Contributions are welcome! Please ensure all tests pass before submitting pull requests.
